@@ -85,6 +85,9 @@
   .foot1{
     text-align: center;
   }
+#autoplay{
+    float: right;
+}
   
   @media only screen and (max-width:500px) {
     .col1{
