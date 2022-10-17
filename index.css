@@ -189,4 +189,7 @@ video{
       width: 25%;
       height: 40%;
     }
+    #vidplay{
+      margin-left: 14%;
+    }
 }
